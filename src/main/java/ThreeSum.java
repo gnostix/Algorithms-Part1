@@ -1,7 +1,3 @@
-package eu.gnostix.algoritms;
-
-
-
 /******************************************************************************
  *  Compilation:  javac ThreeSum.java
  *  Execution:    java ThreeSum input.txt

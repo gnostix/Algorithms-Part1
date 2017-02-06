@@ -1,6 +1,4 @@
-package eu.gnostix.algoritms;
-
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
